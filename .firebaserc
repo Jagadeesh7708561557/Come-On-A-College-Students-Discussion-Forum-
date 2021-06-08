@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "hosting": "kms-comeon",
+    "default": "kms-comeon"
+  }
+}
